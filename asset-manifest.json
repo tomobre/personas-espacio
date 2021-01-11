@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personas-espacio/static/css/main.74d860c1.chunk.css",
+    "main.js": "/personas-espacio/static/js/main.9add9dce.chunk.js",
+    "main.js.map": "/personas-espacio/static/js/main.9add9dce.chunk.js.map",
+    "runtime-main.js": "/personas-espacio/static/js/runtime-main.a90f9fdc.js",
+    "runtime-main.js.map": "/personas-espacio/static/js/runtime-main.a90f9fdc.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/personas-espacio/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.996c2782.chunk.js": "/personas-espacio/static/js/2.996c2782.chunk.js",
+    "static/js/2.996c2782.chunk.js.map": "/personas-espacio/static/js/2.996c2782.chunk.js.map",
+    "index.html": "/personas-espacio/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/personas-espacio/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.74d860c1.chunk.css.map": "/personas-espacio/static/css/main.74d860c1.chunk.css.map",
+    "static/js/2.996c2782.chunk.js.LICENSE.txt": "/personas-espacio/static/js/2.996c2782.chunk.js.LICENSE.txt",
+    "static/media/iss.b9216540.svg": "/personas-espacio/static/media/iss.b9216540.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90f9fdc.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.996c2782.chunk.js",
+    "static/css/main.74d860c1.chunk.css",
+    "static/js/main.9add9dce.chunk.js"
+  ]
+}
